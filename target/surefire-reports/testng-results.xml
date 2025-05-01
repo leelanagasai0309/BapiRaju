@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-01T15:42:35 IST" name="Suite" finished-at="2025-05-01T15:42:41 IST" duration-ms="6745">
+    <groups>
+      <group name="Master">
+        <method signature="TC_001_AccountRegistrationTest.regTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@36bc55de]" name="regTest" class="testCases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_002_LoginTest.verifiyLogin()[pri:0, instance:testCases.TC_002_LoginTest@223d2c72]" name="verifiyLogin" class="testCases.TC_002_LoginTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC_002_LoginTest.verifiyLogin()[pri:0, instance:testCases.TC_002_LoginTest@223d2c72]" name="verifiyLogin" class="testCases.TC_002_LoginTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC_001_AccountRegistrationTest.regTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@36bc55de]" name="regTest" class="testCases.TC_001_AccountRegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-05-01T15:42:35 IST" name="Test" finished-at="2025-05-01T15:42:41 IST" duration-ms="6745">
+      <class name="testCases.TC_001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationTest@36bc55de]" started-at="2025-05-01T15:42:35 IST" name="setup" finished-at="2025-05-01T15:42:37 IST" duration-ms="2276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="regTest()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@36bc55de]" started-at="2025-05-01T15:42:37 IST" name="regTest" finished-at="2025-05-01T15:42:38 IST" duration-ms="1403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@36bc55de]" started-at="2025-05-01T15:42:38 IST" name="tearDown" finished-at="2025-05-01T15:42:39 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AccountRegistrationTest -->
+      <class name="testCases.TC_002_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@223d2c72]" started-at="2025-05-01T15:42:39 IST" name="setup" finished-at="2025-05-01T15:42:40 IST" duration-ms="1567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifiyLogin()[pri:0, instance:testCases.TC_002_LoginTest@223d2c72]" started-at="2025-05-01T15:42:40 IST" name="verifiyLogin" finished-at="2025-05-01T15:42:41 IST" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifiyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@223d2c72]" started-at="2025-05-01T15:42:41 IST" name="tearDown" finished-at="2025-05-01T15:42:41 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,78 @@
+2025-04-29 11:23:13 INFO  TC_001_AccountRegistrationTest:15 -
+			**********Starting the Test***********
+2025-04-29 11:23:13 INFO  TC_001_AccountRegistrationTest:17 -
+			**********Clicking My Account Link***********
+2025-04-29 11:23:14 INFO  TC_001_AccountRegistrationTest:19 -
+			**********Clicking the Register Button***********
+2025-04-29 11:23:14 INFO  TC_001_AccountRegistrationTest:24 -
+			**********Filling the details***********
+2025-04-29 11:23:15 INFO  TC_001_AccountRegistrationTest:35 -
+			Validating expected message..
+2025-04-29 11:23:15 INFO  TC_001_AccountRegistrationTest:50 -
+			***** Finished TC001_AccountRegistrationTest *****
+2025-04-29 11:32:06 INFO  TC_001_AccountRegistrationTest:15 -
+			**********Starting the Test***********
+2025-04-29 11:32:06 INFO  TC_001_AccountRegistrationTest:17 -
+			**********Clicking My Account Link***********
+2025-04-29 11:32:06 INFO  TC_001_AccountRegistrationTest:19 -
+			**********Clicking the Register Button***********
+2025-04-29 11:32:06 INFO  TC_001_AccountRegistrationTest:24 -
+			**********Filling the details***********
+2025-04-29 11:32:07 INFO  TC_001_AccountRegistrationTest:35 -
+			Validating expected message..
+2025-04-29 11:32:07 INFO  TC_001_AccountRegistrationTest:52 -
+			***** Finished TC001_AccountRegistrationTest *****
+2025-04-29 11:32:50 INFO  TC_001_AccountRegistrationTest:15 -
+			**********Starting the Test***********
+2025-04-29 11:32:50 INFO  TC_001_AccountRegistrationTest:17 -
+			**********Clicking My Account Link***********
+2025-04-29 11:32:50 INFO  TC_001_AccountRegistrationTest:19 -
+			**********Clicking the Register Button***********
+2025-04-29 11:32:50 INFO  TC_001_AccountRegistrationTest:24 -
+			**********Filling the details***********
+2025-04-29 11:32:52 INFO  TC_001_AccountRegistrationTest:35 -
+			Validating expected message..
+2025-04-29 11:32:52 INFO  TC_001_AccountRegistrationTest:52 -
+			***** Finished TC001_AccountRegistrationTest *****
+2025-04-29 11:35:44 INFO  TC_001_AccountRegistrationTest:14 -
+			**********Starting the Test***********
+2025-04-29 11:35:44 INFO  TC_001_AccountRegistrationTest:16 -
+			**********Clicking My Account Link***********
+2025-04-29 11:35:44 INFO  TC_001_AccountRegistrationTest:18 -
+			**********Clicking the Register Button***********
+2025-04-29 11:35:45 INFO  TC_001_AccountRegistrationTest:23 -
+			**********Filling the details***********
+2025-04-29 11:35:45 INFO  TC_001_AccountRegistrationTest:34 -
+			Validating expected message..
+2025-04-29 11:35:46 ERROR TC_001_AccountRegistrationTest:45 -
+			Test failed due to assertion error: Account creation confirmation message not matching expected [Your Account Has Been Created!!!] but found [Your Account Has Been Created!]
+2025-04-29 11:35:46 INFO  TC_001_AccountRegistrationTest:52 -
+			***** Finished TC001_AccountRegistrationTest *****
+2025-04-29 11:36:30 INFO  TC_001_AccountRegistrationTest:14 -
+			**********Starting the Test***********
+2025-04-29 11:36:30 INFO  TC_001_AccountRegistrationTest:16 -
+			**********Clicking My Account Link***********
+2025-04-29 11:36:30 INFO  TC_001_AccountRegistrationTest:18 -
+			**********Clicking the Register Button***********
+2025-04-29 11:36:30 INFO  TC_001_AccountRegistrationTest:23 -
+			**********Filling the details***********
+2025-04-29 11:36:31 INFO  TC_001_AccountRegistrationTest:34 -
+			Validating expected message..
+2025-04-29 11:36:31 INFO  TC_001_AccountRegistrationTest:41 -
+			Test passed
+2025-04-29 11:36:31 INFO  TC_001_AccountRegistrationTest:52 -
+			***** Finished TC001_AccountRegistrationTest *****
+2025-04-29 12:04:57 INFO  TC_001_AccountRegistrationTest:14 -
+			**********Starting the Test***********
+2025-04-29 12:04:57 INFO  TC_001_AccountRegistrationTest:16 -
+			**********Clicking My Account Link***********
+2025-04-29 12:04:57 INFO  TC_001_AccountRegistrationTest:18 -
+			**********Clicking the Register Button***********
+2025-04-29 12:04:57 INFO  TC_001_AccountRegistrationTest:23 -
+			**********Filling the details***********
+2025-04-29 12:04:58 INFO  TC_001_AccountRegistrationTest:34 -
+			Validating expected message..
+2025-04-29 12:04:58 INFO  TC_001_AccountRegistrationTest:41 -
+			Test passed
+2025-04-29 12:04:58 INFO  TC_001_AccountRegistrationTest:59 -
+			***** Finished TC001_AccountRegistrationTest *****
